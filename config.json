@@ -1,0 +1,8 @@
+{
+    "name": "userconfig-service",
+    "version": "1.0.968",
+    "private": false,
+    "environment": "production",
+    "build_id": 992,
+    "allow_public_access": true
+}
